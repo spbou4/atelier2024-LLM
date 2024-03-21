@@ -1,0 +1,182 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Atelier sur LLM - Revolution IA 2024",
+    "section": "",
+    "text": "Preface\nBienvenue à notre atelier dédié aux Large Language Models (LLM), une exploration fascinante à l’intersection de l’intelligence artificielle, du traitement automatique du langage naturel et de l’apprentissage automatique. Dans un monde numérique en constante évolution, les LLM s’avèrent être des outils puissants, capables de comprendre, d’interpréter et de générer du langage humain de manière cohérente et contextuellement pertinente.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#quest-ce-quun-large-language-model",
+    "href": "index.html#quest-ce-quun-large-language-model",
+    "title": "Atelier sur LLM - Revolution IA 2024",
+    "section": "Qu’est-ce qu’un Large Language Model ?",
+    "text": "Qu’est-ce qu’un Large Language Model ?\nUn Large Language Model est un type de modèle d’intelligence artificielle qui a été entraîné sur d’énormes ensembles de données textuelles. Grâce à cet entraînement, ces modèles sont capables de réaliser une multitude de tâches liées au langage, telles que la traduction automatique, la génération de texte, la compréhension de questions et de réponses, et bien plus encore. Les LLM, tels que GPT (Generative Pre-trained Transformer) d’OpenAI, ont révolutionné la manière dont nous interagissons avec la technologie, ouvrant la voie à de nouvelles applications et services innovants.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "index.html#pourquoi-cet-atelier-est-il-pertinent",
+    "href": "index.html#pourquoi-cet-atelier-est-il-pertinent",
+    "title": "Atelier sur LLM - Revolution IA 2024",
+    "section": "Pourquoi cet atelier est-il pertinent ?",
+    "text": "Pourquoi cet atelier est-il pertinent ?\nL’essor des LLM transforme divers secteurs, allant de l’éducation à la santé, en passant par le service client et le divertissement. Comprendre le fonctionnement de ces modèles, leurs capacités, leurs limites, et surtout, leur potentiel pour résoudre des problèmes complexes, est devenu indispensable pour les professionnels, les chercheurs et les passionnés de technologie.\nCet atelier a été conçu pour vous fournir une compréhension approfondie des LLM, à travers des présentations théoriques, des études de cas, et des sessions pratiques. Vous découvrirez comment ces modèles sont construits, comment ils apprennent à partir des données et comment ils peuvent être appliqués pour créer des solutions innovantes.\n\nObjectifs de l’atelier\n\nComprendre les Fondements des LLM : Acquérir une connaissance solide des principes sous-jacents des LLM, y compris leur architecture et leur processus d’entraînement.\nExplorer les Applications des LLM : Découvrir comment les LLM sont utilisés dans divers domaines pour améliorer l’efficacité, la créativité et la prise de décision.\nDévelopper des Compétences Pratiques : Appliquer vos connaissances à travers des ateliers pratiques, vous permettant de mettre en œuvre des LLM pour vos propres projets ou recherches.\n\nNous sommes à l’aube d’une nouvelle ère de l’intelligence artificielle, où les LLM jouent un rôle central. Rejoignez-nous pour cet atelier afin d’explorer le potentiel de ces technologies transformatrices et de vous préparer à contribuer à l’avenir de l’IA.\nNous avons hâte de vous accueillir et de partager avec vous cette aventure passionnante !",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel",
+    "section": "",
+    "text": "1.1 Qu’est-ce qu’un Transformer ?\nUn Transformer est un modèle basé sur le mécanisme d’attention, conçu pour traiter séquentiellement des données avec une efficacité et une flexibilité remarquables. Contrairement aux approches précédentes, qui traitent les séquences mot par mot de manière séquentielle, le Transformer permet un parallélisme complet de traitement, ce qui réduit considérablement les temps de formation.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#quest-ce-quun-transformer",
+    "href": "intro.html#quest-ce-quun-transformer",
+    "title": "1  Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel",
+    "section": "",
+    "text": "1.1.1 Le Mécanisme d’Attention\nLe cœur du Transformer est le mécanisme d’attention, spécifiquement l’attention multi-têtes. Ce mécanisme permet au modèle de se concentrer sur différentes parties d’une séquence d’entrée lors de la prédiction d’une partie d’une séquence de sortie, améliorant ainsi sa capacité à comprendre les relations complexes et lointaines dans les données textuelles.\n\n\n1.1.2 Architecture du Transformer\nL’architecture du Transformer est constituée de deux parties principales : l’encodeur et le décodeur.\n\nL’Encodeur : Il traite la séquence d’entrée et la transforme en une série de représentations qui contiennent à la fois les informations du mot spécifique et le contexte dans lequel il apparaît. Chaque couche de l’encodeur contient deux sous-couches : une sous-couche d’attention multi-têtes et une sous-couche de réseau de neurones entièrement connecté.\n\nLe Décodeur : Il génère la séquence de sortie, mot par mot, en se basant sur les représentations fournies par l’encodeur et ce qui a déjà été généré. Le décodeur ajoute une troisième sous-couche à celles trouvées dans l’encodeur, qui permet d’appliquer l’attention sur la sortie de l’encodeur.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#avantages-des-transformers",
+    "href": "intro.html#avantages-des-transformers",
+    "title": "1  Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel",
+    "section": "1.2 Avantages des Transformers",
+    "text": "1.2 Avantages des Transformers\nLes Transformers offrent plusieurs avantages significatifs par rapport aux architectures précédentes :\n\nTraitement Parallèle : La capacité à traiter l’ensemble de la séquence d’entrée en parallèle conduit à une formation plus rapide des modèles.\nGestion des Dépendances à Long Terme : L’attention multi-têtes permet au modèle de se concentrer sur l’ensemble de la séquence d’entrée pour chaque mot de la séquence de sortie, gérant efficacement les dépendances à long terme.\nFlexibilité et Adaptabilité : Les Transformers ont été adaptés avec succès à une grande variété de tâches TALN, y compris la traduction automatique, la synthèse de texte et la compréhension de texte.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#impact-des-transformers",
+    "href": "intro.html#impact-des-transformers",
+    "title": "1  Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel",
+    "section": "1.3 Impact des Transformers",
+    "text": "1.3 Impact des Transformers\nL’introduction des Transformers a marqué un tournant dans le domaine de l’IA et du TALN. Des modèles comme BERT (Bidirectional Encoder Representations from Transformers), GPT (Generative Pretrained Transformer), et d’autres ont établi de nouveaux standards de performance sur divers benchmarks TALN. Ces modèles ont non seulement amélioré la qualité de la compréhension et de la génération de texte, mais ils ont également ouvert la voie à des applications innovantes dans le traitement du langage naturel, la recherche d’informations, et bien au-delà.\nEn somme, les Transformers représentent une avancée majeure dans notre capacité à modéliser et à comprendre le langage humain, conduisant à des progrès significatifs dans de nombreuses applications pratiques de l’IA.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Les Transformers : Révolution dans le Traitement Automatique du Langage Naturel</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Acteurs Majeurs dans le Monde de l’IA",
+    "section": "",
+    "text": "2.1 TensorFlow & Keras",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Acteurs Majeurs dans le Monde de l'IA</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#tensorflow-keras",
+    "href": "summary.html#tensorflow-keras",
+    "title": "2  Acteurs Majeurs dans le Monde de l’IA",
+    "section": "",
+    "text": "TensorFlow : Développé par l’équipe Google Brain, TensorFlow est un framework open-source pour le calcul numérique qui facilite la construction, le déploiement et la formation de modèles d’apprentissage profond. Il est particulièrement connu pour sa flexibilité et sa capacité à opérer à grande échelle, ce qui le rend populaire parmi les chercheurs et les développeurs travaillant sur des projets complexes d’IA.\nKeras : Intégré dans TensorFlow comme tf.keras, Keras est une interface de haut niveau pour les réseaux de neurones, conçue pour l’expérimentation rapide. Facile à utiliser et intuitif, Keras permet de construire et de tester des modèles d’IA avec un minimum de code, le rendant accessible aux novices tout en restant suffisamment puissant pour les chercheurs expérimentés.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Acteurs Majeurs dans le Monde de l'IA</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#hugging-face",
+    "href": "summary.html#hugging-face",
+    "title": "2  Acteurs Majeurs dans le Monde de l’IA",
+    "section": "2.2 Hugging Face",
+    "text": "2.2 Hugging Face\nHugging Face est une entreprise technologique qui a pris une importance considérable dans le monde de l’IA grâce à sa plateforme collaborative et sa bibliothèque de modèles de traitement automatique du langage naturel (TALN), transformers. Offrant un accès facile à plus d’une centaine de modèles pré-entraînés et supportant une multitude de langues, Hugging Face démocratise l’accès aux technologies d’IA de pointe. Elle est devenue incontournable pour les chercheurs, les développeurs, et les entreprises souhaitant intégrer des capacités avancées de TALN dans leurs applications.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Acteurs Majeurs dans le Monde de l'IA</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#mistral",
+    "href": "summary.html#mistral",
+    "title": "2  Acteurs Majeurs dans le Monde de l’IA",
+    "section": "2.3 Mistral",
+    "text": "2.3 Mistral\nMistral est une initiative moins connue mais tout aussi importante dans le domaine de l’IA, se concentrant sur le développement et l’optimisation de modèles d’IA pour des performances et une efficacité énergétique accrues. Bien que moins médiatisée que les autres entités mentionnées ici, Mistral joue un rôle crucial dans la recherche de solutions d’IA plus durables et accessibles, en particulier dans des contextes où les ressources de calcul sont limitées.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Acteurs Majeurs dans le Monde de l'IA</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html#openai",
+    "href": "summary.html#openai",
+    "title": "2  Acteurs Majeurs dans le Monde de l’IA",
+    "section": "2.4 OpenAI",
+    "text": "2.4 OpenAI\nOpenAI est une organisation de recherche en IA fondée avec l’objectif de promouvoir et de développer une intelligence artificielle amicale de manière à bénéficier à l’humanité dans son ensemble. Connue pour ses travaux de recherche de pointe et ses publications influentes, OpenAI a développé des modèles d’IA révolutionnaires comme GPT (Generative Pretrained Transformer) et DALL·E. Par ses contributions, OpenAI influence profondément la direction de la recherche en IA et le développement d’applications innovantes, tout en suscitant un débat public sur les implications éthiques et sociétales de l’IA avancée.\nChacun de ces acteurs joue un rôle distinct dans l’écosystème de l’IA, contribuant à son avancement et à sa démocratisation. Que ce soit par le développement de frameworks et d’outils accessibles, la mise à disposition de modèles pré-entraînés, la recherche fondamentale, ou la sensibilisation aux enjeux éthiques, ils façonnent ensemble l’avenir de l’intelligence artificielle.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Acteurs Majeurs dans le Monde de l'IA</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "3  Architecture du modèle",
+    "section": "",
+    "text": "3.1 Encodeur et Décodeur",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Architecture du modèle</span>"
+    ]
+  },
+  {
+    "objectID": "references.html#encodeur-et-décodeur",
+    "href": "references.html#encodeur-et-décodeur",
+    "title": "3  Architecture du modèle",
+    "section": "",
+    "text": "3.1.1 Encodeur\nL’encodeur est composé d’une pile de \\(N=6\\) couches identiques.\ndef clones(module, N):\n    \"Produce N identical layers.\"\n    return nn.ModuleList([copy.deepcopy(module) for _ in range(N)])\n    \n\nclass Encoder(nn.Module):\n    \"Core encoder is a stack of N layers\"\n\n    def __init__(self, layer, N):\n        super(Encoder, self).__init__()\n        self.layers = clones(layer, N)\n        self.norm = LayerNorm(layer.size)\n\n    def forward(self, x, mask):\n        \"Pass the input (and mask) through each layer in turn.\"\n        for layer in self.layers:\n            x = layer(x, mask)\n        return self.norm(x)\n        \nclass LayerNorm(nn.Module):\n    \"Construct a layernorm module (See citation for details).\"\n\n    def __init__(self, features, eps=1e-6):\n        super(LayerNorm, self).__init__()\n        self.a_2 = nn.Parameter(torch.ones(features))\n        self.b_2 = nn.Parameter(torch.zeros(features))\n        self.eps = eps\n\n    def forward(self, x):\n        mean = x.mean(-1, keepdim=True)\n        std = x.std(-1, keepdim=True)\n        return self.a_2 * (x - mean) / (std + self.eps) + self.b_2\n        \n\nclass SublayerConnection(nn.Module):\n    \"\"\"\n    A residual connection followed by a layer norm.\n    Note for code simplicity the norm is first as opposed to last.\n    \"\"\"\n\n    def __init__(self, size, dropout):\n        super(SublayerConnection, self).__init__()\n        self.norm = LayerNorm(size)\n        self.dropout = nn.Dropout(dropout)\n\n    def forward(self, x, sublayer):\n        \"Apply residual connection to any sublayer with the same size.\"\n        return x + self.dropout(sublayer(self.norm(x)))\n        \n\nclass EncoderLayer(nn.Module):\n    \"Encoder is made up of self-attn and feed forward (defined below)\"\n\n    def __init__(self, size, self_attn, feed_forward, dropout):\n        super(EncoderLayer, self).__init__()\n        self.self_attn = self_attn\n        self.feed_forward = feed_forward\n        self.sublayer = clones(SublayerConnection(size, dropout), 2)\n        self.size = size\n\n    def forward(self, x, mask):\n        \"Follow Figure 1 (left) for connections.\"\n        x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, mask))\n        return self.sublayer[1](x, self.feed_forward)\n      \n      \n\n\n3.1.2 Decodeur\nLe décodeur est également composé d’une pile de \\(N=6\\) couches identiques.\nclass Decoder(nn.Module):\n    \"Generic N layer decoder with masking.\"\n\n    def __init__(self, layer, N):\n        super(Decoder, self).__init__()\n        self.layers = clones(layer, N)\n        self.norm = LayerNorm(layer.size)\n\n    def forward(self, x, memory, src_mask, tgt_mask):\n        for layer in self.layers:\n            x = layer(x, memory, src_mask, tgt_mask)\n        return self.norm(x)\n        \n  \n  class DecoderLayer(nn.Module):\n    \"Decoder is made of self-attn, src-attn, and feed forward (defined below)\"\n\n    def __init__(self, size, self_attn, src_attn, feed_forward, dropout):\n        super(DecoderLayer, self).__init__()\n        self.size = size\n        self.self_attn = self_attn\n        self.src_attn = src_attn\n        self.feed_forward = feed_forward\n        self.sublayer = clones(SublayerConnection(size, dropout), 3)\n\n    def forward(self, x, memory, src_mask, tgt_mask):\n        \"Follow Figure 1 (right) for connections.\"\n        m = memory\n        x = self.sublayer[0](x, lambda x: self.self_attn(x, x, x, tgt_mask))\n        x = self.sublayer[1](x, lambda x: self.src_attn(x, m, m, src_mask))\n        return self.sublayer[2](x, self.feed_forward)\n        \n  def subsequent_mask(size):\n    \"Mask out subsequent positions.\"\n    attn_shape = (1, size, size)\n    subsequent_mask = torch.triu(torch.ones(attn_shape), diagonal=1).type(\n        torch.uint8\n    )\n    return subsequent_mask == 0\n\n\ndef example_mask():\n    LS_data = pd.concat(\n        [\n            pd.DataFrame(\n                {\n                    \"Subsequent Mask\": subsequent_mask(20)[0][x, y].flatten(),\n                    \"Window\": y,\n                    \"Masking\": x,\n                }\n            )\n            for y in range(20)\n            for x in range(20)\n        ]\n    )\n\n    return (\n        alt.Chart(LS_data)\n        .mark_rect()\n        .properties(height=250, width=250)\n        .encode(\n            alt.X(\"Window:O\"),\n            alt.Y(\"Masking:O\"),\n            alt.Color(\"Subsequent Mask:Q\", scale=alt.Scale(scheme=\"viridis\")),\n        )\n        .interactive()\n    )\n\n\nshow_example(example_mask)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Architecture du modèle</span>"
+    ]
+  },
+  {
+    "objectID": "references.html#quest-ce-que-lora",
+    "href": "references.html#quest-ce-que-lora",
+    "title": "3  Architecture du modèle",
+    "section": "4.1 Qu’est-ce que LoRA ?",
+    "text": "4.1 Qu’est-ce que LoRA ?\n\nConcept : LoRA introduit une décomposition de bas rang pour les matrices de poids au sein des modèles de transformateurs.\nEfficacité : En entraînant seulement un petit nombre de paramètres supplémentaires, LoRA réduit considérablement le coût computationnel.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Architecture du modèle</span>"
+    ]
+  },
+  {
+    "objectID": "references.html#avantages-de-lora",
+    "href": "references.html#avantages-de-lora",
+    "title": "3  Architecture du modèle",
+    "section": "4.2 Avantages de LoRA",
+    "text": "4.2 Avantages de LoRA\n\nVitesse : Le fine-tuning avec LoRA est significativement plus rapide en raison du moindre nombre de paramètres mis à jour.\nPersonnalisation : Cela permet aux data scientists d’adapter de grands modèles à leurs tâches spécifiques sans un réentraînement extensif.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Architecture du modèle</span>"
+    ]
+  },
+  {
+    "objectID": "references.html#quelques-cas-dusage",
+    "href": "references.html#quelques-cas-dusage",
+    "title": "3  Architecture du modèle",
+    "section": "4.3 Quelques Cas d’Usage",
+    "text": "4.3 Quelques Cas d’Usage\n\nIA Personnalisée : Personnalisez les modèles d’IA pour comprendre des jargons ou concepts spécifiques dans des domaines de niche.\nPerformance Optimisée : Améliorez la performance sur des tâches comme l’analyse de sentiments ou le résumé de documents avec un fine-tuning spécifique au domaine.\nDéploiement Efficace : Capable de déployer un grand modèle de base LLM et plusieurs petits adaptateurs LoRA, au lieu de devoir déployer plusieurs grands modèles.\n\nDans les sections suivantes, nous explorerons comment implémenter LoRA en pratique et verrons ses avantages de première main.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Architecture du modèle</span>"
+    ]
+  },
+  {
+    "objectID": "references.html#installation",
+    "href": "references.html#installation",
+    "title": "3  Architecture du modèle",
+    "section": "4.4 Installation",
+    "text": "4.4 Installation\n\nAssurez-vous d’être sur une instance GPU\nInstallez les packages requis pour le fine-tuning ; voir le Hub de Finetuning LLM\nInstallez PEFT depuis la source pour les nouvelles fonctionnalités\nRedémarrez l’instance si nécessaire",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Architecture du modèle</span>"
+    ]
+  }
+]
