@@ -1,0 +1,31 @@
+# Acteurs Majeurs dans le Monde de l'IA
+
+L'univers de l'intelligence artificielle (IA) est peuplé de plusieurs acteurs majeurs, chacun contribuant de manière significative à l'avancement et à la démocratisation de la technologie. Voici quelques-uns des plus influents :
+
+## TensorFlow & Keras
+
+-   **TensorFlow** : Développé par l'équipe Google Brain, TensorFlow est un framework open-source pour le calcul numérique qui facilite la construction, le déploiement et la formation de modèles d'apprentissage profond. Il est particulièrement connu pour sa flexibilité et sa capacité à opérer à grande échelle, ce qui le rend populaire parmi les chercheurs et les développeurs travaillant sur des projets complexes d'IA.
+
+-   **Keras** : Intégré dans TensorFlow comme `tf.keras`, Keras est une interface de haut niveau pour les réseaux de neurones, conçue pour l'expérimentation rapide. Facile à utiliser et intuitif, Keras permet de construire et de tester des modèles d'IA avec un minimum de code, le rendant accessible aux novices tout en restant suffisamment puissant pour les chercheurs expérimentés.
+
+![](images/tensorflowkeras.jpg)
+
+## Hugging Face
+
+Hugging Face est une entreprise technologique qui a pris une importance considérable dans le monde de l'IA grâce à sa plateforme collaborative et sa bibliothèque de modèles de traitement automatique du langage naturel (TALN), `transformers`. Offrant un accès facile à plus d'une centaine de modèles pré-entraînés et supportant une multitude de langues, Hugging Face démocratise l'accès aux technologies d'IA de pointe. Elle est devenue incontournable pour les chercheurs, les développeurs, et les entreprises souhaitant intégrer des capacités avancées de TALN dans leurs applications.
+
+![](images/hf-logo.png)
+
+## Mistral
+
+Mistral est une initiative moins connue mais tout aussi importante dans le domaine de l'IA, se concentrant sur le développement et l'optimisation de modèles d'IA pour des performances et une efficacité énergétique accrues. Bien que moins médiatisée que les autres entités mentionnées ici, Mistral joue un rôle crucial dans la recherche de solutions d'IA plus durables et accessibles, en particulier dans des contextes où les ressources de calcul sont limitées.
+
+![](images/News_Image_-_2023-12-11T192644.220.jpeg)
+
+## OpenAI
+
+OpenAI est une organisation de recherche en IA fondée avec l'objectif de promouvoir et de développer une intelligence artificielle amicale de manière à bénéficier à l'humanité dans son ensemble. Connue pour ses travaux de recherche de pointe et ses publications influentes, OpenAI a développé des modèles d'IA révolutionnaires comme GPT (Generative Pretrained Transformer) et DALL·E. Par ses contributions, OpenAI influence profondément la direction de la recherche en IA et le développement d'applications innovantes, tout en suscitant un débat public sur les implications éthiques et sociétales de l'IA avancée.
+
+Chacun de ces acteurs joue un rôle distinct dans l'écosystème de l'IA, contribuant à son avancement et à sa démocratisation. Que ce soit par le développement de frameworks et d'outils accessibles, la mise à disposition de modèles pré-entraînés, la recherche fondamentale, ou la sensibilisation aux enjeux éthiques, ils façonnent ensemble l'avenir de l'intelligence artificielle.
+
+![](images/6138535.webp)

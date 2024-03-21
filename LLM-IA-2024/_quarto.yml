@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "Atelier sur LLM - Revolution IA 2024"
+  author: "Simon-Pierre Boucher"
+  date: "Université Laval"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

@@ -1,0 +1,24 @@
+# Preface {.unnumbered}
+
+Bienvenue à notre atelier dédié aux Large Language Models (LLM), une exploration fascinante à l'intersection de l'intelligence artificielle, du traitement automatique du langage naturel et de l'apprentissage automatique. Dans un monde numérique en constante évolution, les LLM s'avèrent être des outils puissants, capables de comprendre, d'interpréter et de générer du langage humain de manière cohérente et contextuellement pertinente.
+
+## Qu'est-ce qu'un Large Language Model ?
+
+Un Large Language Model est un type de modèle d'intelligence artificielle qui a été entraîné sur d'énormes ensembles de données textuelles. Grâce à cet entraînement, ces modèles sont capables de réaliser une multitude de tâches liées au langage, telles que la traduction automatique, la génération de texte, la compréhension de questions et de réponses, et bien plus encore. Les LLM, tels que GPT (Generative Pre-trained Transformer) d'OpenAI, ont révolutionné la manière dont nous interagissons avec la technologie, ouvrant la voie à de nouvelles applications et services innovants.
+
+## Pourquoi cet atelier est-il pertinent ?
+
+L'essor des LLM transforme divers secteurs, allant de l'éducation à la santé, en passant par le service client et le divertissement. Comprendre le fonctionnement de ces modèles, leurs capacités, leurs limites, et surtout, leur potentiel pour résoudre des problèmes complexes, est devenu indispensable pour les professionnels, les chercheurs et les passionnés de technologie.
+
+Cet atelier a été conçu pour vous fournir une compréhension approfondie des LLM, à travers des présentations théoriques, des études de cas, et des sessions pratiques. Vous découvrirez comment ces modèles sont construits, comment ils apprennent à partir des données et comment ils peuvent être appliqués pour créer des solutions innovantes.
+
+### Objectifs de l'atelier
+
+- **Comprendre les Fondements des LLM** : Acquérir une connaissance solide des principes sous-jacents des LLM, y compris leur architecture et leur processus d'entraînement.
+- **Explorer les Applications des LLM** : Découvrir comment les LLM sont utilisés dans divers domaines pour améliorer l'efficacité, la créativité et la prise de décision.
+- **Développer des Compétences Pratiques** : Appliquer vos connaissances à travers des ateliers pratiques, vous permettant de mettre en œuvre des LLM pour vos propres projets ou recherches.
+
+Nous sommes à l'aube d'une nouvelle ère de l'intelligence artificielle, où les LLM jouent un rôle central. Rejoignez-nous pour cet atelier afin d'explorer le potentiel de ces technologies transformatrices et de vous préparer à contribuer à l'avenir de l'IA.
+
+Nous avons hâte de vous accueillir et de partager avec vous cette aventure passionnante !
+
